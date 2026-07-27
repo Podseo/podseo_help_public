@@ -1,0 +1,1 @@
+import{_ as r,c as t,o as a,ae as o}from"./chunks/framework.CliRSA9F.js";const u=JSON.parse('{"title":"FAQ","description":"","frontmatter":{},"headers":[],"relativePath":"more/faq.md","filePath":"more/faq.md"}'),i={name:"more/faq.md"};function n(s,e,l,d,c,h){return a(),t("div",null,[...e[0]||(e[0]=[o("",57)])])}const m=r(i,[["render",n]]);export{u as __pageData,m as default};
