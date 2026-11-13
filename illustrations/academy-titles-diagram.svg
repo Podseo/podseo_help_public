@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 484" role="img" aria-labelledby="title desc">
+<title id="title">An episode title can name both topic and context</title>
+<desc id="desc">The example title Email Marketing: Welcome Emails for a New Online Store combines the topic email marketing with the specific use case, welcome emails for a new online store. A relevant topic and a specific context help a listener understand the episode. The title must match the episode.</desc>
+<rect x="1" y="1" width="438" height="482" rx="16" fill="#fffaf4" stroke="#e7dbcf" stroke-width="2"/>
+<g font-family="Arial, sans-serif" fill="#24201d">
+<text x="24" y="42" font-size="21" font-weight="700">A title with a clear purpose</text>
+<text x="24" y="70" font-size="15" fill="#655c55">One example, broken into two parts</text>
+<rect x="24" y="94" width="392" height="142" rx="12" fill="#fff" stroke="#d7c9bc" stroke-width="2"/>
+<text x="44" y="127" font-size="14" font-weight="700" fill="#b74d0a">TOPIC</text>
+<text x="44" y="156" font-size="23" font-weight="700">Email Marketing:</text>
+<text x="44" y="188" font-size="21">Welcome Emails for a</text>
+<text x="44" y="215" font-size="21">New Online Store</text>
+<path d="M24 253h392" stroke="#d7c9bc" stroke-width="2"/>
+<circle cx="40" cy="285" r="12" fill="#df6e20"/><text x="40" y="290" font-size="14" font-weight="700" text-anchor="middle" fill="#fff">1</text>
+<text x="64" y="290" font-size="17" font-weight="700">Name the topic</text>
+<text x="64" y="314" font-size="15" fill="#514943">Use a relevant phrase a listener</text><text x="64" y="334" font-size="15" fill="#514943">might search for.</text>
+<circle cx="40" cy="365" r="12" fill="#df6e20"/><text x="40" y="370" font-size="14" font-weight="700" text-anchor="middle" fill="#fff">2</text>
+<text x="64" y="370" font-size="17" font-weight="700">Add the specific context</text>
+<text x="64" y="394" font-size="15" fill="#514943">Explain the question, guest or use case.</text>
+<path d="M24 418h392" stroke="#d7c9bc" stroke-width="2"/>
+<text x="24" y="450" font-size="15" fill="#514943">Check: does the episode deliver on this title?</text>
+</g></svg>

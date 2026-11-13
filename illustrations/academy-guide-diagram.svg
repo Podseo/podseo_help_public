@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 540" role="img" aria-labelledby="title desc">
+  <title id="title">One episode, two search surfaces</title>
+  <desc id="desc">Podcast-app search can show a podcast or its episodes. Web search can show a website's episode page. Make each result useful and review each surface separately; appearing in either place is not guaranteed.</desc>
+  <rect x="1" y="1" width="438" height="538" rx="18" fill="#fffaf5" stroke="#e9ded4" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#292421">
+    <text x="26" y="42" font-size="22" font-weight="700">One episode, two search surfaces</text>
+    <text x="26" y="70" font-size="15" fill="#625952">Give each audience a useful way in.</text>
+    <rect x="26" y="96" width="388" height="155" rx="12" fill="#fff" stroke="#302923" stroke-width="1.5"/>
+    <circle cx="58" cy="129" r="16" fill="#e96c22"/>
+    <path d="M53 129a5 5 0 0 1 10 0v5h-10zM49 129a9 9 0 0 1 18 0" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <text x="86" y="136" font-size="20" font-weight="700">Podcast app search</text>
+    <text x="48" y="174" font-size="16"><tspan x="48">A listener can find the show or</tspan><tspan x="48" dy="24">an episode in the app's results.</tspan></text>
+    <text x="48" y="224" font-size="15" fill="#655a51">Make show and episode titles clear.</text>
+    <rect x="26" y="269" width="388" height="155" rx="12" fill="#fff" stroke="#302923" stroke-width="1.5"/>
+    <circle cx="58" cy="302" r="16" fill="#e96c22"/>
+    <circle cx="56" cy="300" r="5" fill="none" stroke="#fff" stroke-width="2"/><path d="m60 304 5 5" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <text x="86" y="309" font-size="20" font-weight="700">Web search</text>
+    <text x="48" y="347" font-size="16"><tspan x="48">A listener can find an episode</tspan><tspan x="48" dy="24">page on your website.</tspan></text>
+    <text x="48" y="397" font-size="15" fill="#655a51">Make the page useful on its own.</text>
+    <path d="M46 451h348" fill="none" stroke="#e9ded4" stroke-width="2"/>
+    <text x="26" y="484" font-size="16" font-weight="700">Review each surface separately.</text>
+    <text x="26" y="510" font-size="14" fill="#625952">Being found on either surface is not guaranteed.</text>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 940" role="img" aria-labelledby="title desc">
+<title id="title">The 30-day podcast SEO challenge at a glance</title>
+<desc id="desc">Start with a baseline. Days 1–7: check your feed and show. Days 8–14: research keywords and refine content. Days 15–21: review competitors, topics and measurement. Days 22–28: review results and build a routine. Days 29–30: assess and plan ahead.</desc>
+<rect width="440" height="940" rx="10" fill="#fffdf9"/>
+<g font-family="Arial, sans-serif">
+<text x="28" y="49" font-size="15" font-weight="700" letter-spacing="1.4" fill="#a94c1d">YOUR 30-DAY ROUTE</text>
+<text x="28" y="83" font-size="24" font-weight="700" fill="#25221f">One week at a time</text>
+<path d="M57 154 V827" fill="none" stroke="#e5cbb7" stroke-width="3" stroke-dasharray="3 9" stroke-linecap="round"/>
+<circle cx="57" cy="150" r="14" fill="#fffdf9" stroke="#bd5721" stroke-width="3"/><circle cx="57" cy="150" r="4" fill="#bd5721"/>
+<text x="94" y="143" font-size="14" font-weight="700" letter-spacing="1" fill="#a94c1d">BEFORE YOU BEGIN</text>
+<text x="94" y="170" font-size="20" font-weight="700" fill="#25221f">Record your baseline</text>
+<text x="94" y="195" font-size="16" fill="#514a43">Collect metrics and list episodes.</text>
+<circle cx="57" cy="277" r="24" fill="#c65a1d"/><text x="57" y="284" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">1</text>
+<text x="94" y="264" font-size="14" font-weight="700" letter-spacing="1" fill="#a94c1d">DAYS 1–7</text>
+<text x="94" y="291" font-size="20" font-weight="700" fill="#25221f">Build the foundation</text>
+<text x="94" y="316" font-size="16" fill="#514a43">Check the feed, metadata</text><text x="94" y="338" font-size="16" fill="#514a43">and artwork.</text>
+<circle cx="57" cy="414" r="24" fill="#c65a1d"/><text x="57" y="421" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">2</text>
+<text x="94" y="401" font-size="14" font-weight="700" letter-spacing="1" fill="#a94c1d">DAYS 8–14</text>
+<text x="94" y="428" font-size="20" font-weight="700" fill="#25221f">Research and refine</text>
+<text x="94" y="453" font-size="16" fill="#514a43">Map keywords and improve</text><text x="94" y="475" font-size="16" fill="#514a43">episode descriptions.</text>
+<circle cx="57" cy="551" r="24" fill="#c65a1d"/><text x="57" y="558" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">3</text>
+<text x="94" y="538" font-size="14" font-weight="700" letter-spacing="1" fill="#a94c1d">DAYS 15–21</text>
+<text x="94" y="565" font-size="20" font-weight="700" fill="#25221f">Find your position</text>
+<text x="94" y="590" font-size="16" fill="#514a43">Study competitors, topics</text><text x="94" y="612" font-size="16" fill="#514a43">and measurement.</text>
+<circle cx="57" cy="688" r="24" fill="#c65a1d"/><text x="57" y="695" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">4</text>
+<text x="94" y="675" font-size="14" font-weight="700" letter-spacing="1" fill="#a94c1d">DAYS 22–28</text>
+<text x="94" y="702" font-size="20" font-weight="700" fill="#25221f">Review and build a routine</text>
+<text x="94" y="727" font-size="16" fill="#514a43">Review results and plan</text><text x="94" y="749" font-size="16" fill="#514a43">ongoing maintenance.</text>
+<circle cx="57" cy="828" r="14" fill="#fffdf9" stroke="#bd5721" stroke-width="3"/><path d="m51 828 4 4 8-9" fill="none" stroke="#bd5721" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="94" y="821" font-size="14" font-weight="700" letter-spacing="1" fill="#a94c1d">DAYS 29–30</text>
+<text x="94" y="848" font-size="20" font-weight="700" fill="#25221f">Assess and plan ahead</text>
+<path d="M28 885 H412" stroke="#e8dfd5" stroke-width="2"/>
+<text x="28" y="910" font-size="15" fill="#686057">A work schedule, not a ranking deadline.</text>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" role="img" aria-labelledby="title desc">
+<title id="title">Two jobs of a podcast RSS feed</title>
+<desc id="desc">A feed supports distribution when it meets platform requirements. Its titles, author and descriptions can also help listeners understand a show and discover it through search, depending on the platform.</desc>
+<rect x="1" y="1" width="398" height="558" rx="18" fill="#fffaf4" stroke="#e7dbcf" stroke-width="2"/>
+<g font-family="Arial, sans-serif" fill="#24201d">
+<text x="24" y="42" font-size="22" font-weight="700">One feed, two different jobs</text>
+<text x="24" y="69" font-size="15" fill="#655c55">Distribution and discovery are distinct.</text>
+<rect x="24" y="94" width="352" height="184" rx="12" fill="#fff" stroke="#d7c9bc" stroke-width="2"/>
+<circle cx="54" cy="128" r="15" fill="#e97523"/><text x="54" y="134" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">1</text>
+<text x="81" y="135" font-size="21" font-weight="700">Distribution</text>
+<text x="44" y="174" font-size="16" fill="#3c3530"><tspan x="44">Valid feed · stable episode IDs</tspan><tspan x="44" dy="24">· playable audio</tspan></text>
+<path d="M45 230h25m-7-7 7 7-7 7" fill="none" stroke="#e97523" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="82" y="226" font-size="16" fill="#3c3530"><tspan x="82">Helps platforms list and</tspan><tspan x="82" dy="21">play your show.</tspan></text>
+<rect x="24" y="296" width="352" height="184" rx="12" fill="#fff" stroke="#d7c9bc" stroke-width="2"/>
+<circle cx="54" cy="330" r="15" fill="#e97523"/><text x="54" y="336" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">2</text>
+<text x="81" y="337" font-size="21" font-weight="700">Discovery</text>
+<text x="44" y="376" font-size="16" fill="#3c3530"><tspan x="44">Clear titles · author</tspan><tspan x="44" dy="24">· useful descriptions</tspan></text>
+<path d="M45 432h25m-7-7 7 7-7 7" fill="none" stroke="#e97523" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="82" y="428" font-size="16" fill="#3c3530"><tspan x="82">Helps people find and</tspan><tspan x="82" dy="21">understand your show.</tspan></text>
+<text x="24" y="511" font-size="14" fill="#655c55"><tspan x="24">Search fields vary by platform. A valid feed</tspan><tspan x="24" dy="20">is not a ranking bonus.</tspan></text>
+</g></svg>

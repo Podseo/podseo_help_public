@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 824" role="img" aria-labelledby="show-notes-title show-notes-desc">
+<title id="show-notes-title">A useful show notes structure</title>
+<desc id="show-notes-desc">Start with a clear hook and summary, then outline useful insights, list mentioned resources, and offer a relevant next step. Tailor the structure to the episode.</desc>
+<rect width="640" height="824" rx="20" fill="#fcfaf5"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#292520">
+<text x="32" y="50" font-size="29" font-weight="700">A useful show notes structure</text>
+<text x="32" y="84" font-size="20" fill="#5f5851">Give readers a clear route through the episode.</text>
+<rect x="32" y="112" width="576" height="634" rx="12" fill="#fff" stroke="#3d342e" stroke-width="2"/>
+<path d="M63 179h514M63 323h514M63 467h514M63 611h514" stroke="#eaded2" stroke-width="2"/>
+<g fill="#df6e21"><circle cx="76" cy="151" r="17"/><circle cx="76" cy="233" r="17"/><circle cx="76" cy="377" r="17"/><circle cx="76" cy="521" r="17"/><circle cx="76" cy="665" r="17"/></g>
+<g fill="#fff" text-anchor="middle" font-weight="700" font-size="18"><text x="76" y="157">1</text><text x="76" y="239">2</text><text x="76" y="383">3</text><text x="76" y="527">4</text><text x="76" y="671">5</text></g>
+<text x="110" y="158" font-size="24" font-weight="700">Hook and summary</text>
+<text x="110" y="240" font-size="24" font-weight="700">Value-first outline</text>
+<text x="110" y="273" font-size="20">Highlight the questions and insights</text><text x="110" y="300" font-size="20">that make the episode useful.</text>
+<text x="110" y="384" font-size="24" font-weight="700">Resources and references</text>
+<text x="110" y="417" font-size="20">Link to what you mentioned and</text><text x="110" y="444" font-size="20">explain why it is useful.</text>
+<text x="110" y="528" font-size="24" font-weight="700">Quotes and insights</text>
+<text x="110" y="561" font-size="20">Choose useful excerpts and check</text><text x="110" y="588" font-size="20">them against the recording.</text>
+<text x="110" y="672" font-size="24" font-weight="700">Relevant next step</text>
+<text x="110" y="705" font-size="20">Invite readers to continue if useful.</text>
+<text x="32" y="790" font-size="19" fill="#5f5851">Adapt the order and detail to your episode.</text>
+</g></svg>

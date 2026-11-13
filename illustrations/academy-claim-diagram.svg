@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 650" role="img" aria-labelledby="claim-title claim-desc">
+  <title id="claim-title">Claim your existing show</title>
+  <desc id="claim-desc">Your host keeps your audio and feed. To claim the existing show, Spotify sends a code to the email in your RSS feed, while Apple provides a token to paste into your host's settings. Once claimed, your show appears in your own platform account. Do not create a new show.</desc>
+  <rect x="1" y="1" width="418" height="648" rx="18" fill="#fffaf4" stroke="#e7dbcf" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#292520">
+    <text x="24" y="43" font-size="23" font-weight="700">Claim your existing show</text>
+    <text x="24" y="70" font-size="15" fill="#655c55">Keep your host, feed and episodes.</text>
+    <rect x="24" y="94" width="372" height="91" rx="12" fill="#fff" stroke="#d7c9bc" stroke-width="2"/>
+    <circle cx="54" cy="127" r="15" fill="#e97523"/><text x="54" y="133" font-size="17" font-weight="700" text-anchor="middle" fill="#fff">1</text>
+    <text x="80" y="133" font-size="19" font-weight="700">Find your existing show</text>
+    <text x="44" y="163" font-size="15" fill="#3c3530">Sign in to the platform's creator account.</text>
+    <path d="M210 186v25m-6-6 6 6 6-6" fill="none" stroke="#e97523" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="217" width="372" height="241" rx="12" fill="#fff" stroke="#d7c9bc" stroke-width="2"/>
+    <circle cx="54" cy="250" r="15" fill="#e97523"/><text x="54" y="256" font-size="17" font-weight="700" text-anchor="middle" fill="#fff">2</text>
+    <text x="80" y="256" font-size="19" font-weight="700">Prove the show is yours</text>
+    <text x="44" y="294" font-size="17" font-weight="700">Spotify</text>
+    <text x="44" y="320" font-size="15" fill="#3c3530"><tspan x="44">Find the existing show with your RSS feed</tspan><tspan x="44" dy="21">or show link; use the emailed code.</tspan></text>
+    <path d="M44 365h332" stroke="#e7dbcf" stroke-width="1"/>
+    <text x="44" y="393" font-size="17" font-weight="700">Apple Podcasts</text>
+    <text x="44" y="419" font-size="15" fill="#3c3530"><tspan x="44">Claim the existing show with its Apple link;</tspan><tspan x="44" dy="21">paste Apple's token in your host settings.</tspan></text>
+    <path d="M210 459v25m-6-6 6 6 6-6" fill="none" stroke="#e97523" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="490" width="372" height="91" rx="12" fill="#fff" stroke="#d7c9bc" stroke-width="2"/>
+    <circle cx="54" cy="523" r="15" fill="#e97523"/><text x="54" y="529" font-size="17" font-weight="700" text-anchor="middle" fill="#fff">3</text>
+    <text x="80" y="529" font-size="19" font-weight="700">Use your platform account</text>
+    <text x="44" y="560" font-size="15" fill="#3c3530">Access listener data and owner tools.</text>
+    <text x="24" y="615" font-size="15" font-weight="700" fill="#8c451b">Don't create or upload a second show.</text>
+  </g>
+</svg>
