@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 620" role="img" aria-labelledby="clinic-title clinic-desc">
+  <title id="clinic-title">A practical podcast discovery checkup</title>
+  <desc id="clinic-desc">Check the RSS feed and platform listings, review recent episode titles and show description, then choose a change and compare the relevant outcome. A checkup identifies issues; it does not promise growth.</desc>
+  <rect x="1" y="1" width="478" height="618" rx="20" fill="#fffaf3" stroke="#e9ded0" stroke-width="2"/>
+  <g font-family="Arial, sans-serif" fill="#24201d">
+    <text x="28" y="45" font-size="24" font-weight="700">A discovery checkup</text>
+    <text x="28" y="72" font-size="15" fill="#665b52">Identify an issue before choosing a change.</text>
+    <g fill="#fff" stroke="#3b3029" stroke-width="1.5">
+      <rect x="28" y="99" width="424" height="122" rx="12"/>
+      <rect x="28" y="243" width="424" height="122" rx="12"/>
+      <rect x="28" y="387" width="424" height="122" rx="12"/>
+    </g>
+    <g fill="#e86e1b"><circle cx="61" cy="132" r="15"/><circle cx="61" cy="276" r="15"/><circle cx="61" cy="420" r="15"/></g>
+    <g text-anchor="middle" fill="#fff" font-size="15" font-weight="700"><text x="61" y="137">1</text><text x="61" y="281">2</text><text x="61" y="425">3</text></g>
+    <g fill="#24201d">
+      <text x="89" y="139" font-size="20" font-weight="700">Check distribution</text>
+      <text x="49" y="173" font-size="16"><tspan x="49">Review the RSS feed and listings.</tspan><tspan x="49" dy="22">Look for errors or missing episodes.</tspan></text>
+      <text x="89" y="283" font-size="20" font-weight="700">Review your content</text>
+      <text x="49" y="317" font-size="16"><tspan x="49">Do recent episode titles name the topic?</tspan><tspan x="49" dy="22">Is the show description useful and clear?</tspan></text>
+      <text x="89" y="427" font-size="20" font-weight="700">Choose and review</text>
+      <text x="49" y="461" font-size="16"><tspan x="49">Record a change; compare its relevant</tspan><tspan x="49" dy="22">outcome in the available reports.</tspan></text>
+    </g>
+    <path d="M240 222v19m-6-6 6 6 6-6M240 366v19m-6-6 6 6 6-6" fill="none" stroke="#e86e1b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 545h424" stroke="#e5d9ca" stroke-width="1.5"/>
+    <text x="28" y="575" font-size="15" fill="#665b52"><tspan x="28">An initial check takes about 15 minutes;</tspan><tspan x="28" dy="21">fixing an issue can take longer.</tspan></text>
+  </g>
+</svg>

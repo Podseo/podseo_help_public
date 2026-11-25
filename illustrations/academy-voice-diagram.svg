@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 686" role="img" aria-labelledby="voice-title voice-desc">
+<title id="voice-title">From a listener question to a clear episode title</title>
+<desc id="voice-desc">Use a real listener question to identify their subject and situation. Check that the episode answers it, then express its scope in a clear title and opening description. This does not establish that a listener arrived by voice search.</desc>
+<rect x="1" y="1" width="478" height="684" rx="18" fill="#fffaf4" stroke="#e5d7ca" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#292520">
+<text x="28" y="48" font-size="23" font-weight="700">Turn a question into clear wording</text>
+<text x="28" y="78" font-size="16" fill="#625a53">An example, not measured search demand</text>
+<rect x="28" y="104" width="424" height="106" rx="12" fill="#fff" stroke="#d8c9ba" stroke-width="2"/>
+<circle cx="59" cy="137" r="14" fill="#e97523"/><text x="59" y="143" text-anchor="middle" font-weight="700" font-size="16" fill="#fff">1</text>
+<text x="84" y="142" font-size="19" font-weight="700">Listener’s question</text>
+<text x="48" y="173" font-size="17"><tspan x="48">“How do I start a business</tspan><tspan x="48" dy="23">while keeping my job?”</tspan></text>
+<path d="M240 216v20m-7-7 7 7 7-7" fill="none" stroke="#e97523" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="246" width="424" height="102" rx="12" fill="#fff" stroke="#d8c9ba" stroke-width="2"/>
+<circle cx="59" cy="279" r="14" fill="#e97523"/><text x="59" y="285" text-anchor="middle" font-weight="700" font-size="16" fill="#fff">2</text>
+<text x="84" y="284" font-size="19" font-weight="700">Topic + situation</text>
+<text x="48" y="318" font-size="17">A side business alongside employment</text>
+<path d="M240 354v20m-7-7 7 7 7-7" fill="none" stroke="#e97523" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="384" width="424" height="110" rx="12" fill="#fff" stroke="#d8c9ba" stroke-width="2"/>
+<circle cx="59" cy="417" r="14" fill="#e97523"/><text x="59" y="423" text-anchor="middle" font-weight="700" font-size="16" fill="#fff">3</text>
+<text x="84" y="422" font-size="19" font-weight="700">Check the episode</text>
+<text x="48" y="455" font-size="17"><tspan x="48">Does the episode actually answer</tspan><tspan x="48" dy="23">the listener’s question?</tspan></text>
+<path d="M240 500v20m-7-7 7 7 7-7" fill="none" stroke="#e97523" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="530" width="424" height="113" rx="12" fill="#fff" stroke="#d8c9ba" stroke-width="2"/>
+<circle cx="59" cy="563" r="14" fill="#e97523"/><text x="59" y="569" text-anchor="middle" font-weight="700" font-size="16" fill="#fff">4</text>
+<text x="84" y="568" font-size="19" font-weight="700">Make the scope clear</text>
+<text x="48" y="601" font-size="17"><tspan x="48">“Starting a Side Business While</tspan><tspan x="48" dy="23">Working Full-Time”</tspan></text>
+<text x="28" y="670" font-size="15" fill="#625a53">A natural phrase does not prove voice discovery.</text>
+</g></svg>

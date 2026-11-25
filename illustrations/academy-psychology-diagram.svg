@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 700" role="img" aria-labelledby="title desc">
+<title id="title">Match the message to the listening context</title>
+<desc id="desc">A listener looking for an answer may value a specific topic. A listener exploring for enjoyment may value a clear reason for curiosity. A listener learning a skill may value the perspective or subject. These are prompts for writing, not predictions of listener behaviour.</desc>
+<rect x="1" y="1" width="638" height="698" rx="20" fill="#fffaf4" stroke="#eaded1" stroke-width="2"/>
+<g font-family="Arial, sans-serif" fill="#29241f">
+<text x="34" y="54" font-size="28" font-weight="700">Match the message to the context</text>
+<text x="34" y="89" font-size="20" fill="#655c55">Three useful questions for your next draft</text>
+<g fill="#fff" stroke="#d9cdc0" stroke-width="2"><rect x="32" y="117" width="576" height="152" rx="12"/><rect x="32" y="287" width="576" height="152" rx="12"/><rect x="32" y="457" width="576" height="152" rx="12"/></g>
+<g fill="#dc671c"><circle cx="69" cy="154" r="15"/><circle cx="69" cy="324" r="15"/><circle cx="69" cy="494" r="15"/></g>
+<g fill="#fff" text-anchor="middle" font-weight="700" font-size="17"><text x="69" y="160">1</text><text x="69" y="330">2</text><text x="69" y="500">3</text></g>
+<text x="101" y="161" font-size="24" font-weight="700">Looking for an answer?</text>
+<text x="101" y="202" font-size="21"><tspan x="101">Name the problem or question</tspan><tspan x="101" dy="29">your episode addresses.</tspan></text>
+<text x="101" y="331" font-size="24" font-weight="700">Exploring for enjoyment?</text>
+<text x="101" y="372" font-size="21"><tspan x="101">Offer a reason for curiosity</tspan><tspan x="101" dy="29">without making a false promise.</tspan></text>
+<text x="101" y="501" font-size="24" font-weight="700">Learning a subject?</text>
+<text x="101" y="542" font-size="21"><tspan x="101">Explain the topic and perspective</tspan><tspan x="101" dy="29">the listener can expect.</tspan></text>
+<text x="34" y="653" font-size="19" fill="#655c55"><tspan x="34">These are writing prompts, not predictions</tspan><tspan x="34" dy="26">of what any individual will choose.</tspan></text>
+</g></svg>

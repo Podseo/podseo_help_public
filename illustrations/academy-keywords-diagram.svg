@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 945" role="img" aria-labelledby="title desc">
+  <title id="title">A four-step keyword strategy</title>
+  <desc id="desc">Research related shows and phrases, assign relevant keywords a purpose, map them naturally to content, then compare the same keyword, platform and country over time. Rankings do not identify plays.</desc>
+  <rect width="640" height="945" rx="18" fill="#fffcf7"/>
+  <text x="42" y="63" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#20201e">From research to review</text>
+  <text x="42" y="96" font-family="Arial,sans-serif" font-size="20" fill="#55524d">A practical keyword strategy cycle</text>
+  <g font-family="Arial,sans-serif" fill="#20201e">
+    <rect x="42" y="130" width="556" height="145" rx="12" fill="#fff" stroke="#ded9d0" stroke-width="2"/>
+    <circle cx="80" cy="169" r="19" fill="#f36b21"/><text x="80" y="176" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">1</text>
+    <text x="113" y="176" font-size="24" font-weight="700">Research</text>
+    <text x="64" y="216" font-size="20">Study similar shows and phrases</text><text x="64" y="247" font-size="20">your intended listeners might use.</text>
+    <path d="M320 280v28m-9-9 9 9 9-9" fill="none" stroke="#e76a28" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="316" width="556" height="145" rx="12" fill="#fff" stroke="#ded9d0" stroke-width="2"/>
+    <circle cx="80" cy="355" r="19" fill="#f36b21"/><text x="80" y="362" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">2</text>
+    <text x="113" y="362" font-size="24" font-weight="700">Choose a purpose</text>
+    <text x="64" y="402" font-size="20">Choose relevant phrases for the show</text><text x="64" y="433" font-size="20">or an episode, or track for research.</text>
+    <path d="M320 466v28m-9-9 9 9 9-9" fill="none" stroke="#e76a28" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="502" width="556" height="145" rx="12" fill="#fff" stroke="#ded9d0" stroke-width="2"/>
+    <circle cx="80" cy="541" r="19" fill="#f36b21"/><text x="80" y="548" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">3</text>
+    <text x="113" y="548" font-size="24" font-weight="700">Map to content</text>
+    <text x="64" y="588" font-size="20">Use fitting terms naturally in titles</text><text x="64" y="619" font-size="20">and descriptions, without stuffing.</text>
+    <path d="M320 652v28m-9-9 9 9 9-9" fill="none" stroke="#e76a28" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="688" width="556" height="145" rx="12" fill="#fff" stroke="#ded9d0" stroke-width="2"/>
+    <circle cx="80" cy="727" r="19" fill="#f36b21"/><text x="80" y="734" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">4</text>
+    <text x="113" y="734" font-size="24" font-weight="700">Record and review</text>
+    <text x="64" y="774" font-size="20">Compare the same keyword, platform</text><text x="64" y="805" font-size="20">and country against your baseline.</text>
+    <text x="42" y="879" font-size="19" fill="#55524d">Positions show visibility, not attributed plays.</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-labelledby="title desc">
+<title id="title">Three questions, three different measures</title>
+<desc id="desc">Keyword positions show visibility for tracked terms. Spotify discovery impressions show where content was displayed; its Search source includes charts and editorial recommendations. Apple listener analytics reports plays, follows and engaged listeners. These measures are not interchangeable and do not attribute plays to a keyword.</desc>
+<rect width="640" height="800" rx="18" fill="#fcfaf5"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#292520">
+<text x="32" y="52" font-size="29" font-weight="700">Three questions,</text><text x="32" y="88" font-size="29" font-weight="700">three different measures</text>
+<text x="32" y="123" font-size="21" fill="#5e5852">Compare them; they are not one funnel.</text>
+<g fill="#fff" stroke="#37312b" stroke-width="2"><rect x="32" y="151" width="576" height="170" rx="12"/><rect x="32" y="339" width="576" height="170" rx="12"/><rect x="32" y="527" width="576" height="170" rx="12"/></g>
+<g fill="#de651b"><circle cx="70" cy="192" r="15"/><circle cx="70" cy="380" r="15"/><circle cx="70" cy="568" r="15"/></g>
+<g font-size="17" font-weight="700" fill="#fff" text-anchor="middle"><text x="70" y="198">1</text><text x="70" y="386">2</text><text x="70" y="574">3</text></g>
+<g fill="#292520"><text x="101" y="199" font-size="25" font-weight="700">Where do I rank?</text><text x="101" y="240" font-size="22">PodSEO: position by keyword</text><text x="101" y="271" font-size="22">and platform</text>
+<text x="101" y="387" font-size="25" font-weight="700">Where was my show displayed?</text><text x="101" y="428" font-size="22">Spotify: impressions by</text><text x="101" y="459" font-size="22">discovery source</text>
+<text x="101" y="575" font-size="25" font-weight="700">What listening activity happened?</text><text x="101" y="616" font-size="22">Apple: plays, follows and</text><text x="101" y="647" font-size="22">engaged listeners</text></g>
+<text x="32" y="743" font-size="20" font-weight="700">A rank or impression does not identify a play.</text>
+<text x="32" y="773" font-size="19" fill="#5e5852">Spotify Search includes charts and editorial exposure.</text>
+</g></svg>

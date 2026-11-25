@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-labelledby="title desc">
+<title id="title">One audio request, overlapping reports</title>
+<desc id="desc">The same request for an episode passes through tracker A and tracker B before reaching the audio host. Each service may report that request using different filtering rules. The reports overlap, so their totals should not be added together. A request count does not measure playback completion.</desc>
+<rect width="600" height="750" rx="20" fill="#fbf8f2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#292521">
+<text x="30" y="48" font-size="28" font-weight="700">One request, overlapping reports</text>
+<text x="30" y="80" font-size="19" fill="#615b55">A single audio request can pass through each service.</text>
+<g fill="#fff" stroke="#403831" stroke-width="2">
+<rect x="124" y="110" width="352" height="68" rx="13"/>
+<rect x="124" y="222" width="352" height="68" rx="13"/>
+<rect x="124" y="334" width="352" height="68" rx="13"/>
+<rect x="124" y="446" width="352" height="68" rx="13"/>
+</g>
+<g text-anchor="middle" font-size="23" font-weight="700">
+<text x="300" y="153">Listener requests audio</text>
+<text x="300" y="265">Tracker A</text>
+<text x="300" y="377">Tracker B</text>
+<text x="300" y="489">Audio host</text>
+</g>
+<g fill="none" stroke="#e46f20" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M300 181v35m-8-9 8 9 8-9M300 293v35m-8-9 8 9 8-9M300 405v35m-8-9 8 9 8-9"/>
+</g>
+<rect x="30" y="548" width="540" height="151" rx="14" fill="#fff" stroke="#dfd4c8" stroke-width="2"/>
+<circle cx="62" cy="583" r="12" fill="#e46f20"/>
+<text x="84" y="591" font-size="22" font-weight="700">Compare; don't add</text>
+<text x="51" y="626" font-size="19"><tspan x="51">Each report may use different filters, but</tspan><tspan x="51" dy="27">the underlying requests can overlap.</tspan><tspan x="51" dy="27">Requests alone do not measure completion.</tspan></text>
+</g>
+</svg>
